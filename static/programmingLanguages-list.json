@@ -1,0 +1,29 @@
+{
+  "java": {
+    "slug": "java",
+    "id": 1,
+    "name": "Java",
+    "imageUrl": "https://static.djangoproject.com/img/logos/django-logo-negative.png",
+    "thumbnailUrl": "https://www.aktsrl.com/new/wp-content/uploads/2019/09/Java-3000x1500.jpg",
+    "description": "Java è un linguaggio di programmazione ad alto livello, orientato agli oggetti e a tipizzazione statica, che si appoggia sull'omonima piattaforma software di esecuzione, specificamente progettato per essere il più possibile indipendente dal sistema hardware in uso (tramite compilazione in bytecode pirma e interpretazione poi da parte di una JVM), sebbene questa caratteristica comporti prestazioni in termini di computazione inferiori a quelle di linguaggi direttamente compilati come C e C++",
+    "languageType": "Object-Oriented Programming Language"
+  },
+  "javascript": {
+    "slug": "javascript",
+    "id": 2,
+    "name": "Javascript",
+    "imageUrl": "https://www.competa.com/wp-content/themes/competait/resources/assets/img/banner/angularjs.jpg",
+    "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSYN8p0SivpbiJHnmRtkJlLdXKhn3KoP1bKrPQPSl183_aAV3l_",
+    "description": "Angular (dalla versione 2 in poi) è un framework open-source per lo sviluppo di applicazioni web con licenza MIT, evoluzione di AngularJS. Angular è uno dei framework Javascript open-source più popolari, utilizzato da numerosi sviluppatori in tutto il mondo per creare applicazioni web dinamiche grazie a una serie di funzionalità e strumenti che semplificano lo sviluppo delle applicazioni stesse garantendo contemporaneamente ottimi risultati in termini di prestazioni.",
+    "basedLanguage": "Javascript & Typescript"
+  },
+  "typescript": {
+    "slug": "typescript",
+    "id": 3,
+    "name": "Typescript",
+    "imageUrl": "https://zenasoftware.gurghet.com/assets/img/typescript-logo.3c3a13a9.jpeg",
+    "thumbnailUrl": "https://zenasoftware.gurghet.com/assets/img/typescript-logo.3c3a13a9.jpeg",
+    "description": "Flutter è un framework open-source creato da Google per la creazione di interfacce native per iOS e Android, oltre ad essere il metodo principale per la creazione di applicazioni per Google Fuchsia.\n\nCon la versione 1.9, Google introduce il supporto per le applicazioni web e per siti statici scritti in linguaggio Dart. Così, con questo aggiornamento, si è ampliata la lista delle piattaforme supportate.",
+    "basedLanguage": "Dart"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "django": {
+    "slug": "django",
+    "id": 1,
+    "name": "Django - Python's Web Application Framework",
+    "imageUrl": "https://static.djangoproject.com/img/logos/django-logo-negative.png",
+    "thumbnailUrl": "https://c7.uihere.com/files/10/113/180/django-web-development-web-framework-python-software-framework-django.jpg",
+    "description": "Django è un web-framework con licenza open source per lo sviluppo di applicazioni web, scritto in linguaggio Python, seguendo il paradigma Model-Template-View. Il progetto è sviluppato dalla 'Django Software Foundation', (DSF), un'organizzazione indipendente senza scopo di lucro. Venne concepito inizialmente per gestire diversi siti di notizie per la World Company di Lawrence (Kansas), e distribuito con una licenza BSD a luglio 2005. Alcuni siti noti che utilizzano questo framework sono attualmente Pinterest, Instagram, Mozilla, The Washington Times, Public Broadcasting Service, Bitbucket, NASA",
+    "basedLanguage": "Python"
+  },
+  "angular": {
+    "slug": "angular",
+    "id": 2,
+    "name": "Angular - Typescript's Web Application Framework",
+    "imageUrl": "https://www.competa.com/wp-content/themes/competait/resources/assets/img/banner/angularjs.jpg",
+    "thumbnailUrl": "https://angular.jp/assets/images/logos/angular/angular.png",
+    "description": "Angular (dalla versione 2 in poi) è un framework open-source per lo sviluppo di applicazioni web con licenza MIT, evoluzione di AngularJS. Angular è uno dei framework Javascript open-source più popolari, utilizzato da numerosi sviluppatori in tutto il mondo per creare applicazioni web dinamiche grazie a una serie di funzionalità e strumenti che semplificano lo sviluppo delle applicazioni stesse garantendo contemporaneamente ottimi risultati in termini di prestazioni.",
+    "basedLanguage": "Javascript & Typescript"
+  },
+  "flutter": {
+    "slug": "flutter",
+    "id": 3,
+    "name": "Flutter - Dart Development Framework",
+    "imageUrl": "https://monade.io/wp-content/uploads/2019/10/cover-0408-FlutterMessangerDemo-Luke_Newsletter-30d5a65064b44f0ef56a801d4811964a.png",
+    "thumbnailUrl": "https://yt3.ggpht.com/a/AGF-l7-pLWHhqjLR5ZVoKzV9_eU6IjYrDyhvSLRjsw=s900-c-k-c0xffffffff-no-rj-mo",
+    "description": "Flutter è un framework open-source creato da Google per la creazione di interfacce native per iOS e Android, oltre ad essere il metodo principale per la creazione di applicazioni per Google Fuchsia.\n\nCon la versione 1.9, Google introduce il supporto per le applicazioni web e per siti statici scritti in linguaggio Dart. Così, con questo aggiornamento, si è ampliata la lista delle piattaforme supportate.",
+    "basedLanguage": "Dart"
+  },
+  "laravel": {
+    "slug": "laravel",
+    "id": 4,
+    "name": "Laravel - PHP Framework",
+    "imageUrl": "https://www.jesusamieiro.com/wp-content/uploads/2019/10/Laravel.png",
+    "thumbnailUrl": "https://www.laramind.com/blog/wp-content/uploads/2018/05/Untitled-design-8-620x420.png",
+    "description": "Laravel è un framework open source di tipo MVC scritto in PHP per lo sviluppo di applicazioni web, creato nel 2011. Distribuito con licenza MIT, mantiene tutto il codice disponibile su GitHub e viene indicato, in base al punteggio GitHub e StackOverflow, come il framework PHP più popolare, seguito da Symfony, CodeIgniter e altri; ad agosto 2014 risulta essere il progetto PHP più seguito su GitHub. Alcune delle caratteristiche sono: un sistema di gestione dei pacchetti modulare con un gestore delle dipendenze dedicato, differenti modalità di accesso ai database relazionali, strumenti che aiutano la distribuzione e la manutenzione dell'applicazione, e la sua disposizione al Syntactic sugar.",
+    "basedLanguage": "PHP"
+  }
+}
